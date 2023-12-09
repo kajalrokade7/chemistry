@@ -1,0 +1,2 @@
+sql is a language
+i.e structure query laguage
